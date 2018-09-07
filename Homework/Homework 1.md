@@ -1,6 +1,6 @@
 ## Brandi Bushman 
 
-[Problem 1- maceps*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Maceps%20Code)
+[Problem 1- maceps*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Maceps%20Code.md)
 
 [Problem 2- hello world*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hello%20World.md)
 
