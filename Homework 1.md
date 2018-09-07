@@ -8,7 +8,7 @@ software manual
 
 
 
-"Taylor Series"
+[does this work] Github.com/rhysemartin "Taylor Series"
 "Antiderivatives"
 this is the quadratic one
  "Intial Value"
