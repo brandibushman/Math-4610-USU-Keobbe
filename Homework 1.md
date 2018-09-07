@@ -1,18 +1,17 @@
-# Homework 1
+## Homework 1
 
-## Brandi Bushman 
+[]: 	"maceps program"
 
-this is the code I wrote:
+software manual
 
-```python
-def printText(x):
-    print(x)
-    return
-def prob1(u,v):
-    A=abs(u-v)
-    B=(abs(u-v))/(abs(u))
-    # print(B)
-    return B
-```
+[]: 	"Hello world program"
 
-and this is the result: nothing.,
+
+
+[Overleaf]: http://vr.overleaf.com/read/ryzkhnzptmpf	"Taylor Series"
+[Overleaf]: http://vr.overleaf.com/read/ryzkhnzptmpf         "Antiderivatives"
+this is the quadratic one
+[Overleaf]: http://vr.overleaf.com/read/ryzkhnzptmpf         "Intial Value"
+This is the  internet thing
+
+[Overleaf]: http://vr.overleaf.com/read/ryzkhnzptmpf         "Graphs"
