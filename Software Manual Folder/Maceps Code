@@ -1,59 +1,53 @@
-### Code to Determine Machine Precision
+# Math 4610 Fundamentals of Computational Mathematics Software Manual Template File
+This is a template file for building an entry in the student software manual project. You should use the formatting below to
+define an entry in your software manual.
 
-It is always a good idea to understand the precision with which any real number can be represented. Coming up with a way to
-compute the machine precision can help with understanding how errors can accumulate as floating point operations are
-performed in a computer code or simulation. To compute an estimate of the machine precision on your computer, you can write a
-very little bit of computer code that will test to see how close one can get to the number 1 before precision is lost. An
-example code is included in this appendix. The code is in Fortran, but can easily be translated into a C/C++, Python, or Java
-code. The main reason for including the code is to make sure students get started very quickly in writing and using codes. In
-addition, most computer literate students program in other languages (e.g, C, C++, Java, Python, etc.) So, providing a code in
-fortran will likely cause students to take on the challenge of translating the code included below into another language. Note
-that translation of code from one programming language to another is a useful skill to have.
+**Routine Name:**           smaceps
 
-    c
-    c coding language:    Fortran 77
-    c
-    c ------------------------------------------------------------------------------
-    c
-    c written by:         Joe Koebbe
-    c date written:       Sept 28, 2014
-    c written for:        Problem Set 1
-    c course:             Math 4610
-    c
-    c purpose:            Determine a machine epsilon for the computers I would like
-    c                     work on computationally. The code contains 2 subroutines.
-    c
-    c                     smacsps - returns the single precision value for machine
-    c                               precision
-    c                     dmacsps - returns the double precision value for machine
-    c                               precision
-    c
-    c ------------------------------------------------------------------------------
-    c
-          program main
-    c
-    c do the work in double precision
-    c -------------------------------
-    c
-          real sval
-          real*8 dval
-    c
-    c single precision test
-    c ---------------------
-    c
-          call smaceps(sval, ipow)
-          print *, ipow, sval
-    c
-    c done
-    c ----
-    c
-          stop
-          end
-    c
-    c single precision computation of machine precision
-    c -------------------------------------------------
-    c
-          subroutine smaceps(seps, ipow)
+**Author:** Joe Koebbe
+
+**Language:** Fortran. The code can be compiled using the GNU Fortran compiler (gfortran).
+
+For example,
+
+    gfortran smaceps.f
+
+will produce an executable **./a.exe** than can be executed. If you want a different name, the following will work a bit
+better
+
+    gfortran -o smaceps smaceps.f
+
+**Description/Purpose:** This routine will compute the single precision value for the machine epsilon or the number of digits
+in the representation of real numbers in single precision. This is a routine for analyzing the behavior of any computer. This
+usually will need to be run one time for each computer.
+
+**Input:** There are no inputs needed in this case. Even though there are arguments supplied, the real purpose is to
+return values in those variables.
+
+**Output:** This routine returns a single precision value for the number of decimal digits that can be represented on the
+computer being queried.
+
+**Usage/Example:**
+
+The routine has two arguments needed to return the values of the precision in terms of the smallest number that can be
+represented. Since the code is written in terms of a Fortran subroutine, the values of the machine machine epsilon and
+the power of two that gives the machine epsilon. Due to implicit Fortran typing, the first argument is a single precision
+value and the second is an integer.
+
+      call smaceps(sval, ipow)
+      print *, ipow, sval
+
+Output from the lines above:
+
+      24   5.96046448E-08
+
+The first value (24) is the number of binary digits that define the machine epsilon and the second is related to the
+decimal version of the same value. The number of decimal digits that can be represented is roughly eight (E-08 on the
+end of the second value).
+
+**Implementation/Code:** The following is the code for smaceps()
+
+      subroutine smaceps(seps, ipow)
     c
     c set up storage for the algorithm
     c --------------------------------
@@ -69,7 +63,7 @@ that translation of code from one programming language to another is a useful sk
     c
     c loop, dividing by 2 each time to determine when the difference between one and
     c the approximation is zero in single precision
-    c ---------------------------------------------
+    c --------------------------------------------- 
     c
           ipow = 0
           do 1 i=1,1000
@@ -97,5 +91,5 @@ that translation of code from one programming language to another is a useful sk
     c done
     c ----
     c
-    return
+          return
     end
