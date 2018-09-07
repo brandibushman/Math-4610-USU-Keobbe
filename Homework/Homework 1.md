@@ -8,7 +8,7 @@
 
 [Problem 4- Antiderivatives](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/assignment%201.pdf)
 
-[Problem 5- Quadratic*](https://github.com/brandibushman/Math-4610-USU-Keobbe/tree/master/Software%20Manual%20Folder)
+[Problem 5- Quadratic*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Quadratic%20Routine.md)
 
 [Problem 6- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/assignment%201.pdf)
 
