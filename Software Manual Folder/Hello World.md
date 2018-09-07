@@ -21,7 +21,7 @@ better
 
 **Output:** It will say Hello World. 
 
-**Usage/Example:** information
+**Usage/Example:** information here
 
       call holamund
 Output from the lines above:
