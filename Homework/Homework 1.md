@@ -14,6 +14,6 @@ Problem 6
 
 [Problem 7](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/assignment%201.pdf)
 
-Problem 8
+[Problem 8](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Question%208.md)
 
 [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/assignment%201.pdf)
