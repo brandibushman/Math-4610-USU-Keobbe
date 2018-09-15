@@ -17,6 +17,7 @@ Code block which represents the body of a function or a loop begins with the ind
 * **print()** 
 * **type()** tells you the type of variable yopu have. float, integer, 
 * %: divisibility
+	* [example](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/else%20if%20.md)
 
 
 [Keywords] (http://www.techbeamers.com/python-keywords-identifiers-variables/#keywords-in-python)
