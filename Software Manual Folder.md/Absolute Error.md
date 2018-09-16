@@ -1,4 +1,4 @@
-# Error Calculator
+# Absolute Error Calculator
 This routine can calculate absolute and relative error.
 
 **Routine Name:**           error_abs
