@@ -69,3 +69,5 @@ SyntaxError: invalid syntax
 >>> print(math_is)
 ['coolimportnat']
 ~~~
+* **open** read it 
+* **import(filename.py)** This will have access to all the functinos in that file
