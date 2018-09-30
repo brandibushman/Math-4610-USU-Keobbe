@@ -10,3 +10,5 @@
 [Absolute Error](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Absolute%20Error.md)
 
 [Relative Error](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Relative%20Error.md)
+
+[Newton's Method](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Newton's%20Method)
