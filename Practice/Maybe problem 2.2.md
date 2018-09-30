@@ -1,7 +1,7 @@
-# Approximating the Integral
+# Approximating the Derivative
 This routine can calculate absolute and relative error.
 
-**Routine Name:**           approx_int_xs
+**Routine Name:**           approx_xs
 
 **Author:** Brandi Bushman
 
@@ -9,7 +9,7 @@ This routine can calculate absolute and relative error.
 
 For example,
 
-  approx_int_xs(x,y,h)
+  approx_xs(x,y,h)
 
 
 **Description/Purpose:** This routine will apporximate the area under the curve of  f(x)=x<sup>2</sup> from y to x by using the defintion of the integral, where h  is the "wdith" of the retangles under the curve. 
@@ -19,9 +19,9 @@ For example,
 **Output:**One value, the approximation of the integral x<sup>2</sup> from y to x. 
 
 **Usage/Example:**
-[example with integration approximation]()
+[example with approximation]()
 ~~~
->>> approx_int_xsq(3,2,.01)
+>>> approx_xs(3,2,.01)
 ~~~
 
 Output from the lines above:
@@ -34,7 +34,7 @@ This value represents the absolute value of the difference between the two answe
 
 **Implementation/Code:** The following is the code for error_abs()
 ~~~
-def approx_int_xsq( x, y, h):
+def approx_xs( x, y, h):
     R = ((((x+h)**2 - x**2)-((y+h)**2 - y**2))/h)  
     return(R)
 ~~~
