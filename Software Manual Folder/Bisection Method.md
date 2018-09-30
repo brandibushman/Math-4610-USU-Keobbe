@@ -1,3 +1,4 @@
+~~~
 def BisectionMethod( a , b, f , tol , maxiter):
     h = subs.f( x = a )
     g = subs.f( x = b )
@@ -5,3 +6,4 @@ def BisectionMethod( a , b, f , tol , maxiter):
         return(True)
     else:
         return(False)
+~~~
