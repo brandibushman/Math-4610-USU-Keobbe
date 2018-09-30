@@ -1,4 +1,4 @@
-# Relative Error Calculator
+# Newton's Method
 Uses the Newton Method to find roots
 
 **Routine Name:**           NewtonMethod
