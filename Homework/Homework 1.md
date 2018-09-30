@@ -12,7 +12,7 @@
 
 [Problem 6- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
 
-[Problem 7- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Question%208.md)
+[Problem 7- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
 
 [Problem 8- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
 
