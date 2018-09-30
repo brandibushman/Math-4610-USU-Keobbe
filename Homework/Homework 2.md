@@ -14,7 +14,7 @@ y
 In this problem, you will investigate problems that occur due to finite precision of arithmetic. In the text, one standard approximation for derivatives involves the definition. The approximation is used in many application.
 
 
-### Problem  3
+### [Problem  3]()
 
 Sometimes a formula can be modified to mitigate issues related to machine precision computations.
 Above, an approximation of the derivative. Use the derivative approximation using to examine machine precision errors as 
