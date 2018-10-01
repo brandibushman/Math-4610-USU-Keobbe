@@ -20,3 +20,18 @@ Sometimes a formula can be modified to mitigate issues related to machine precis
 Above, an approximation of the derivative. Use the derivative approximation using to examine machine precision errors as 
 h
  tends to zero. Then use the conjugate of the numerator to rewrite the derivative formula using the following steps:
+ 
+ 
+### [Problem 6](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md) 
+
+### [Problem 6](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Newton's%20Method.md)
+ 
+### [Problem 7](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
+
+### [Problem 8](https://github.com/brandibushman/Math-4610-USU-Keobbe/tree/master/Software%20Manual%20Folder)
+
+### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
+
+### Problem 10
+
+It was a bit challenging to search for, most of what came up was information on how to do them. However I did find [one website](https://math.stackexchange.com/questions/29197/applied-math-finding-roots) that told me it is used for projectiles which led me to researching projctiles. 
