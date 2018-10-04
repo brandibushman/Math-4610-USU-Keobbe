@@ -71,3 +71,85 @@ SyntaxError: invalid syntax
 ~~~
 * **open** read it 
 * **import(filename.py)** This will have access to all the functinos in that file
+
+## Cool Things I learned on October 3rd
+~~~
+>>> myfloat = 19.1
+>>> cat = 2
+>>> new = float (cat)
+>>> new
+2.0
+>>> neww = int (myfloat)
+>>> 
+>>> new
+2.0
+>>> neww
+19
+>>> p = 19.9
+>>> q= int (p)
+>>> q
+19
+>>> print(177)
+177
+>>> print(50*60)
+3000
+>>> print("50*10=", 50*10)
+('50*10=', 500)
+>>> print("50 * 10 = ", 50*10)
+('50 * 10 = ', 500)
+>>> print('50*10 = ' , 50*10 )
+('50*10 = ', 500)
+>>> print('50*10 = '  50*10 )
+SyntaxError: invalid syntax
+>>> hi = print('50*10 = ' , 50*10 )
+SyntaxError: invalid syntax
+>>> hi
+
+Traceback (most recent call last):
+  File "<pyshell#25>", line 1, in <module>
+    hi
+NameError: name 'hi' is not defined
+>>> x = 7
+>>> y = =9
+SyntaxError: invalid syntax
+>>> y = 9
+>>> print(x+y)
+16
+>>> print( " {0} * {1} = {2}".format(x,y,x*y))
+ 7 * 9 = 63
+>>> print("Hola ", "Mundo", sep"--------")
+SyntaxError: invalid syntax
+>>> print("Hola ", "Mundo", sep="--------")
+SyntaxError: invalid syntax
+>>> print("Hola", "Mundo", sep="--------")
+SyntaxError: invalid syntax
+>>> name = "Lionel"
+>>> print ("who is a cat? %s" % name)
+who is a cat? Lionel
+>>> age = 4
+>>> print ("Why is %s I am %d ! years old" % (name, age))
+Why is Lionel I am 4 ! years old
+>>>  print ("Hola", "Mundo", sep="--------")
+ 
+  File "<pyshell#39>", line 2
+    print ("Hola", "Mundo", sep="--------")
+    ^
+IndentationError: unexpected indent
+>>> hey = 50*10
+>>> print("50*10= %s " % hey)
+50*10= 500 
+>>> print("cat = %f.4" % 88.2)
+cat = 88.200000.4
+>>> print("cat = %.4f" % 88.2)
+cat = 88.2000
+>>> sup = input ("Who is your ho:")
+Who is your ho:6
+>>> sup
+6
+>>> IamSoSleepy = ("how many hours do you want to sleep")
+>>> IamSoSleepy
+'how many hours do you want to sleep'
+>>> IamSoSleepy =  input ("how many hours do you want to sleep:")
+how many hours do you want to sleep:500
+>>> 
+~~~
