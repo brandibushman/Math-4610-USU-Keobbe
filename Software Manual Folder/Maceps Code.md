@@ -27,16 +27,28 @@ Output from the lines above:
       
 **Implementation/Code:**
  
-def dmaceps():
-    EPS = .9
-  
-    while ((1+EPS) != 1): 
+~~~
+def dmaceps():#machine epsilon for 64 bit
+    eps1 = float(.5)  #type cast as float, 64 bit precision  
+      
+    while ((1+eps1) != 1): 
 
-        prev_epsilon = EPS 
-   
+        prev = eps1 
+        eps1 = eps1 / 2
+        
+    print( "Machine Epsilon for double is: " , prev )
+            
+    
+def smaceps(): #machine eposilon for 32 bit
+    eps2 = .5 #autimatically set as int, 32 bits of precision   
+      
+    while ((1+eps2) != 1): 
 
-        EPS = EPS / 2
-   
-
-    print( "Machine Epsilon is : " , 
-            prev_epsilon )
+        pre = eps2 
+        eps2 = eps2 / 2
+        
+    print( "Machine Epsilon for single is : " , pre )
+            
+    
+#output is showing same number, could be that the hardware on the machine is limiting the precision??
+~~~
