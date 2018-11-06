@@ -23,7 +23,7 @@ $ gfortran -fopenmp Hello.f -o Hello
 
 **Output:** Each thread will say hello and it will count the number of threads your computer has.  
 
-**Usage/Example:** information here
+**Usage/Example:** 
 ~~~
       A02234836@ENG30352 ~
 $ ./Hello.exe
@@ -38,7 +38,7 @@ $ ./Hello.exe
  There are           8 threads!
 ~~~
       
-**Implementation/Code:*
+**Implementation/Code:**
 ~~~
       program main
       integer id, nthrds
