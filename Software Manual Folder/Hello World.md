@@ -4,32 +4,54 @@
 
 **Author:** Brandi Bushman 
 
-**Language:** Python 
+**Language:** Fortran
  
 For example,
 
-    holamundo.py
+    Hello.f
 
-will produce an executable **./a.exe** than can be executed. If you want a different name, the following will work a bit
-better
+will produce an executable **./Hello.exe** than can be executed.
 
-    no sure yet
+**Description/Purpose:** This routine will have each thread in your computer say Hello world.   
 
-**Description/Purpose:** This routine will say hello to the world everytime you want it to.  
+**Input:** Open the executable file 
+~~~
+A02234836@ENG30352 ~
+$ gfortran -fopenmp Hello.f -o Hello
 
-**Input:** none.
+~~~
 
-**Output:** It will say Hello World. 
+**Output:** Each thread will say hello and it will count the number of threads your computer has.  
 
 **Usage/Example:** information here
-
-      call holamund
-Output from the lines above:
-
-      Hello World
+~~~
+      A02234836@ENG30352 ~
+$ ./Hello.exe
+ Hello World from thread           6
+ Hello World from thread           5
+ Hello World from thread           2
+ Hello World from thread           1
+ Hello World from thread           7
+ Hello World from thread           0
+ Hello World from thread           3
+ Hello World from thread           4
+ There are           8 threads!
+~~~
       
-**Implementation/Code:**
-
-
-    c
-    c put code here
+**Implementation/Code:*
+~~~
+      program main
+      integer id, nthrds
+      integer omp_get_thread_num, omp_get_num_threads
+C$OMP PARALLEL PRIVATE(id)
+      id = omp_get_thread_num()
+      print *, 'Hello World from thread' , id
+C$OMP BARRIER
+      if(id .eq. 0) then
+              nthrds = omp_get_num_threads()
+              print *, 'There are' , nthrds, 'threads!'
+      end if
+C$OMP END PARALLEL
+      stop
+      end
+~~~
