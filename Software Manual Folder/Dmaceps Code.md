@@ -1,11 +1,11 @@
 # dmaceps
-This is a program I will write this weekend, because I'm still struggling
+This is a program which will evaluate the double precision epsilon of your computer.
 
 **Routine Name:**           dmaceps()
 
-**Author:** Brandi
+**Author:** Brandi Bushman
 
-**Language:** probably python
+**Language:** Python
 
 For example,
 
@@ -39,18 +39,6 @@ def dmaceps():#machine epsilon for 64 bit
         eps1 = eps1 / 2
         
     print( "Machine Epsilon for double is: " , prev )
-            
-    
-def smaceps(): #machine eposilon for 32 bit
-    import numpy as np
-    eps2 = np.float32(0.5) #typecast as float 32 bits of precision   
-      
-    while ((1+eps2) != 1): 
-
-        pre = eps2 
-        eps2 = eps2 / 2
-        
-    print( "Machine Epsilon for single is : " , pre )
             
 
 ~~~
