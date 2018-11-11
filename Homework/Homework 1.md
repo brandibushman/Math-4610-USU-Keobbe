@@ -14,7 +14,7 @@ Problem 1- [dmaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/
 
 [Problem 7- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/ivp.pdf)
 
-[Problem 8- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
+[Problem 8- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Question%208.md)
 
 [Problem 9- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/graphs.pdf)
 
