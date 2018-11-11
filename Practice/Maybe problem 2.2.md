@@ -40,3 +40,20 @@ def approx_xs( x, y, h):
 ~~~
 
 **Last Modified:** September/2019
+
+~~~
+import sys, math
+h = 1
+
+def fprime(a):#x^2 function, truncates at iteration 27
+  global h
+  xp = ((pow((a + h),2) - pow(a,2))/h)
+  h=h/2
+  return xp
+
+    
+for i in range(30):
+  str = "Iteration #"
+  print(str,i+1)
+  print(fprime(2))
+  ~~~
