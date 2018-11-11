@@ -4,17 +4,17 @@ Problem 1- [dmaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/
 
 [Problem 2- hello world*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hello%20World.md)
 
-[Problem 3- Taylor Series](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
+[Problem 3- Taylor Series](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/taylor.pdf)
 
-[Problem 4- Antiderivatives](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
+[Problem 4- Antiderivatives](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/differentiate.pdf)
 
 [Problem 5- Quadratic*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Quadratic%20Routine.md)
 
-[Problem 6- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
+[Problem 6- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/ivp.pdf)
 
 [Problem 7- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
 
-[Problem 8- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Computational.pdf)
+[Problem 8- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/graphs.pdf)
 
 
 
