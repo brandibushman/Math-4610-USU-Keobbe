@@ -5,18 +5,13 @@ This is the logic I plan on using for this assignment. Then create a shared file
 
 **Author:** Brandi
 
-**Language:** Probably C 
+**Language:** Python
 
 For example,
 
-    quad.py
+    quadratic.py
 
-will produce an executable **./a.exe** than can be executed. If you want a different name, the following will work a bit
-better
-
-    no sure yet
-
-**Description/Purpose:** This routine will take values a,b,c then compute the quadratic equation. 
+**Description/Purpose:** This routine will take values a,b,c which are the coefficients for a quadratic polynomial then compute the roots.
 
 **Input:** In put variables are the coefficients to the quadratic equation ax^2 + bx +c
 
@@ -24,15 +19,28 @@ better
 
 
 **Usage/Example:** information here
-
-      call quad
-      print*, a, b, c
+    >>> quad(1,-1,-6)
+    
+     
 Output from the lines above:
 
-      soln1, soln2
+      [3.0, -2.0]
       
 **Implementation/Code:**
+    def quad(a,b,c):
+
+    d = ((b*b) - (4*a*c))
+    if d<0:
+         print('Not real!!!')    
+    else:
+        import math
+        z = math.sqrt(d)
+        
+        x1 = (-b + z)/(2*a)
+        x2 = (-b - z)/(2*a)
+    from array import array
+    my_array = [x1,x2]
+    return my_array
 
 
-    c
-    c put code here
+
