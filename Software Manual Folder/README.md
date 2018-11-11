@@ -1,7 +1,7 @@
 # Table of Content
 ### In Order of when it was entered
 
-[Dmaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Maceps%20Code.md)
+[Dmaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Dmaceps%20Code.md)
 
 [Smaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/smaceps.md)
 
