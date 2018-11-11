@@ -29,7 +29,9 @@ Output from the lines above:
  
 ~~~
 def dmaceps():#machine epsilon for 64 bit
-    eps1 = float(.5)  #type cast as float, 64 bit precision  
+    
+    import numpy as np
+    eps1 = np.float64(0.5)  #type cast as float, 64 bit precision  
       
     while ((1+eps1) != 1): 
 
@@ -40,7 +42,8 @@ def dmaceps():#machine epsilon for 64 bit
             
     
 def smaceps(): #machine eposilon for 32 bit
-    eps2 = .5 #autimatically set as int, 32 bits of precision   
+    import numpy as np
+    eps2 = np.float32(0.5) #typecast as float 32 bits of precision   
       
     while ((1+eps2) != 1): 
 
@@ -49,6 +52,5 @@ def smaceps(): #machine eposilon for 32 bit
         
     print( "Machine Epsilon for single is : " , pre )
             
-    
-#output is showing same number, could be that the hardware on the machine is limiting the precision??
+
 ~~~
