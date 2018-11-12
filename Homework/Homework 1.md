@@ -4,19 +4,21 @@ Problem 1- [dmaceps](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/
 
 [Problem 2- Github Account](https://github.com/brandibushman/Math-4610-USU-Keobbe)
 
-[Problem 3- hello world*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hello%20World.md)
+missing problem?
 
-[Problem 4- Taylor Series](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/taylor.pdf)
+[Problem 4- hello world*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hello%20World.md)
 
-[Problem 5- Antiderivatives](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/antiderivatives.pdf)
+[Problem 5- Taylor Series](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/taylor.pdf)
 
-[Problem 6- Quadratic*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Quadratic%20Routine.md)
+[Problem 6- Antiderivatives](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/antiderivatives.pdf)
 
-[Problem 7- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/ivp.pdf)
+[Problem 7- Quadratic*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Quadratic%20Routine.md)
 
-[Problem 8- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Question%208.md)
+[Problem 8- Inital Value](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/ivp.pdf)
 
-[Problem 9- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/graphs.pdf)
+[Problem 9- Research](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Question%208.md)
+
+[Problem 10- Graphs](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/graphs.pdf)
 
 
 
