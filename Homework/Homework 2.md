@@ -32,6 +32,6 @@ h
 
 ### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
 
-### Problem 10
+### [Problem 10](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Prob%2010%20hw%202)
+Perform an online search for references to bracketing of roots of functions of a single real variable. Look for applications an explanations of how to bracket roots of nonlinear functions. Make sure that you cite at least three sources. You can cite web sites and/or web pages that discuss bracketing.
 
-It was a bit challenging to search for, most of what came up was information on how to do them. However I did find [one website](https://math.stackexchange.com/questions/29197/applied-math-finding-roots) that told me it is used for projectiles which led me to researching projctiles. 
