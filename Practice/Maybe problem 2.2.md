@@ -1,7 +1,6 @@
 # Approximating the Derivative
-This routine can calculate absolute and relative error.
 
-**Routine Name:**           approx_xs
+**Routine Name:**           approxder.py
 
 **Author:** Brandi Bushman
 
@@ -9,7 +8,7 @@ This routine can calculate absolute and relative error.
 
 For example,
 
-  approx_xs(x,y,h)
+  approxder(x,y,h)
 
 
 **Description/Purpose:** This routine will apporximate the area under the curve of  f(x)=x<sup>2</sup> from y to x by using the defintion of the integral, where h  is the "wdith" of the retangles under the curve. 
@@ -21,7 +20,7 @@ For example,
 **Usage/Example:**
 [example with approximation]()
 ~~~
->>> approx_xs(3,2,.01)
+>>> approxder(3,2,.01)
 ~~~
 
 Output from the lines above:
@@ -34,7 +33,7 @@ This value represents the absolute value of the difference between the two answe
 
 **Implementation/Code:** The following is the code for error_abs()
 ~~~
-def approx_xs( x, y, h):
+def approxder( x, y, h):
     R = ((((x+h)**2 - x**2)-((y+h)**2 - y**2))/h)  
     return(R)
 ~~~
@@ -42,18 +41,8 @@ def approx_xs( x, y, h):
 **Last Modified:** September/2019
 
 ~~~
-import sys, math
-h = 1
+def approxder(x, y, h):
+    return (y(x+h) - y(a))/h
 
-def fprime(a):#x^2 function, truncates at iteration 27
-  global h
-  xp = ((pow((a + h),2) - pow(a,2))/h)
-  h=h/2
-  return xp
 
-    
-for i in range(30):
-  str = "Iteration #"
-  print(str,i+1)
-  print(fprime(2))
-  ~~~
+~~~
