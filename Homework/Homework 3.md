@@ -39,7 +39,7 @@ the outer product of two matrices or the [Kronecker product](https://github.com/
 Add entries to your software manual for each of the routines you write.
  
 ### Problem 7
- Write routines that take advantage of parallel/concurrent computing to perform the following matrix operations.
+ No one knows how to do this in python. Write routines that take advantage of parallel/concurrent computing to perform the following matrix operations.
 [the product of a matrix and vector](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/the%20product%20of%20a%20matrix%20and%20vector%20parallel.md)
 [the product of two matrices](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/product%20of%20two%20matrices%20parallel.md)
 You do not need to add an entry to the software manual in this case. However, you need to give examples to verify your code works.
