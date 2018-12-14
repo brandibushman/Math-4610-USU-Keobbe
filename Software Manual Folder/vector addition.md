@@ -1,4 +1,4 @@
-# Two Norm Relative Error
+# Vector Addition
 
 **Routine Name:**           VecAdd.py
 
