@@ -16,7 +16,7 @@ For example,
 **Input:** Function, x0, x1, tolerance, max iterations. 
 
 
-**Output:** The root or a no roor message. 
+**Output:** The root. 
 
 **Usage/Example:** The routine requires five arguments. The routine returns the approximate root value.
 
