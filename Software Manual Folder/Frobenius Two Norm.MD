@@ -31,7 +31,7 @@ Output from the lines above:
  
 ~~~
 
-def FrNorm(matrix):
+def FrNorm(A):
     row = len(A)
     col = len(A[0])
     norm = 0.0
