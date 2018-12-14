@@ -29,9 +29,10 @@ Output from the lines above:
  
 ~~~
 def VecScalar(x,u):
-  for i in range(len(x)):
+  for i in range(len(u)):
         
-        x[i] *= scalar
+        u[i] *= x
+  return(u)
 
 ~~~
 
