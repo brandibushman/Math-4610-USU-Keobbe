@@ -1,4 +1,4 @@
-### [Problem 1](https://github.com/brandibushman/Math-4610-USU-Keobbe/tree/master/Software%20Manual%20Folder)
+### [Problem 1](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Gaussian%20Elim%20hw4.md)
 Write a routine that will perform Gaussian elimination on a square matrix. Return the result of the operation in the input array. That is, overwrite the orginal array with the elimination.
 
 ### [Problem 2](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Gaussian%20Elim%20General.md)
