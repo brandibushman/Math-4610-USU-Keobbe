@@ -11,7 +11,7 @@ For example,
     Fr1Norm(A)
 
 
-**Description/Purpose:** Adds right most columns 
+**Description/Purpose:** Adds the largest value in each column. 
 
 **Input:** A matrix which is a list of lists. 
 
