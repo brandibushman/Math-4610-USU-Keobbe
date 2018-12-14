@@ -11,7 +11,7 @@ For example,
     NormInfRel(u,v)
 
 
-**Description/Purpose:** Finds the length of a vector using two nrom.
+**Description/Purpose:** Finds the length of a vector using infinity nrom.
 
 **Input:** Vector in the form of a list. 
 
