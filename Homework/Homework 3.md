@@ -34,8 +34,7 @@ Add entries to your software manual for each of the routines you write.
 
 ### Problem 6
 Write routines for the following additional matrix operations.
-the [outer product of two matrices](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/outer%20product.md)
-the [Kronecker product](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Kronecker%20product.md) of two matrices
+the outer product of two matrices or the [Kronecker product](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Kronecker%20product.md) of two matrices
 [determinant of a matrix](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/determinant.md)
 Add entries to your software manual for each of the routines you write.
  
