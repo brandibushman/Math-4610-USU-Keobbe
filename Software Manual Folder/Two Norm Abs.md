@@ -1,4 +1,4 @@
-# Two Norm Lengths
+# Two Norm Absolute Error
 
 **Routine Name:**           Norm2AbE.py
 
