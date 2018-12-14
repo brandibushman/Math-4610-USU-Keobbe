@@ -32,13 +32,13 @@ Output from the lines above:
 **Implementation/Code:**
  
 ~~~
-def maxadd(A,B):
-   row = len(A)
+def maxscalar(x,A):
+    row = len(A)
     col = len(A[0])
 
     for i in range(row):
         for j in range(col):
-            A[i][j] *= alpha
-
+            A[i][j] *= x
+  return(A)
 
 ~~~
