@@ -19,7 +19,7 @@ Add entries to your software manual to cover these routines. As in all homework 
  
 ### Problem 4
 Write separate routines to compute the Frobenius norms of a matrix. Add entries to your software manual for these routines.
-[Frobenius one norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20one%20norm.md), [Frobenius Two Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Two%20Norm),  [Frobenius Infinity Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Infinity%20Norm.md)
+[Frobenius one norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20one%20norm.md), [Frobenius Two Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Two%20Norm.MD),  [Frobenius Infinity Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Infinity%20Norm.md)
 
 ### Problem 5
 Write separate routines for each of the following matrix operations.
