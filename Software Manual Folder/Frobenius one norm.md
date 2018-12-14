@@ -11,7 +11,7 @@ For example,
     Fr1Norm(A)
 
 
-**Description/Purpose:** Adds the largest value in each column. 
+**Description/Purpose:** Adds the largest value in each row 
 
 **Input:** A matrix which is a list of lists. 
 
