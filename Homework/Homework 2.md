@@ -23,7 +23,7 @@ h
 
 ### Problem 4 [first function](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md)
  
-### [Problem 5](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md) 
+### [Problem 5*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md) 
 
 ### [Problem 6](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Newton's%20Method.md)
  
