@@ -1,5 +1,4 @@
 # One Norm Lengths
-This is a program which will evaluate the double precision epsilon of your computer.
 
 **Routine Name:**           NormInfLeng.py
 
