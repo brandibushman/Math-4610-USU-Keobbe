@@ -31,7 +31,7 @@ Output from the lines above:
  
 ~~~
 
- def OneNorm(A):
+ def Fr1Norm(A):
     row = len(A)
     col = len(A)
     norm = 0.0
