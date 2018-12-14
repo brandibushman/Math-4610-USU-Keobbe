@@ -27,7 +27,7 @@ Write separate routines for each of the following matrix operations.
 [matrix subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/matrix%20subtraction.md)
 the [transpose a matrix*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/transpose%20a%20matrix.md)
 [trace of a matrix*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/trace%20of%20a%20matrix.md)
-[multiplying a scalar into a matrix](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplying%20a%20scalar%20into%20a%20matrix.md)
+[multiplying a scalar into a matrix*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplying%20a%20scalar%20into%20a%20matrix.md)
 [multiplication of a matrix into a vector*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplication%20of%20a%20matrix%20into%20a%20vector.md)
 [multiplication of two matrices*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplication%20of%20two%20matrices.md)
 Add entries to your software manual for each of the routines you write.
