@@ -55,6 +55,6 @@ the [cross product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/
 ### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Change%20of%20Basis.md)
  In a standard linear algebra course the process of changing bases is presented. For this problem, define an algorithm for determining an othogonal basis from a general basis in two dimensions. This means taking a pair of vectors and determining a pair of unit vectors that form an orthogonal pair of vectors. Include an entry in your software manual with some simple examples.
 
-### [Problem 10](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Problem%2010%20hw%203.md)
+### [Problem 10*(https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Practice/Problem%2010%20hw%203.md)
 Perform an online search using the term Kronecker product. Find sites that describe the product and applications of the Kronecker product. Write up a paragraph or two describing this topic citing at least three web pages and/or web sites.
 
