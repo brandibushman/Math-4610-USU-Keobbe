@@ -32,7 +32,7 @@ h
 
 ### [Problem 8*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hybrid%20Newton.md)
 
-### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/tree/master/Software%20Manual%20Folder)
+### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/hybrid%20secant.md)
 
 ### [Problem 10](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
 Perform an online search for references to bracketing of roots of functions of a single real variable. Look for applications an explanations of how to bracket roots of nonlinear functions. Make sure that you cite at least three sources. You can cite web sites and/or web pages that discuss bracketing.
