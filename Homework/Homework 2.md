@@ -30,7 +30,7 @@ h
  
 ### [Problem 7*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
 
-### [Problem 8](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hybrid%20Newton.md)
+### [Problem 8*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Hybrid%20Newton.md)
 
 ### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
 
