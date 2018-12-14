@@ -28,7 +28,7 @@ h
 
 ### [Problem 6*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Newton's%20Method.md)
  
-### [Problem 7](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
+### [Problem 7*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Secant%20Method.md)
 
 ### [Problem 8](https://github.com/brandibushman/Math-4610-USU-Keobbe/tree/master/Software%20Manual%20Folder)
 
