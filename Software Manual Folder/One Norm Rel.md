@@ -1,5 +1,4 @@
 # One Norm Relative Error
-This is a program which will evaluate the double precision epsilon of your computer.
 
 **Routine Name:**           Norm1Rel.py
 
