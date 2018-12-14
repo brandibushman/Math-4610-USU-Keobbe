@@ -1,7 +1,6 @@
 # 
 
-**Routine Name:**           gausselim.py
-
+**Routine Name:**          
 **Author:** Brandi Bushman
 
 **Language:** Python
