@@ -9,7 +9,7 @@
 
 For example,
 
-    def Secant(f, x0, x1, tol, maxiter)
+    def secant(f, x0, x1, tol, maxiter)
 
 **Description/Purpose:** The roots of a function
 
@@ -21,7 +21,8 @@ For example,
 **Usage/Example:** The routine requires five arguments. The routine returns the approximate root value.
 
 ~~~
- Secant(lambda x: x**2 - 3, 1, 4, pow(10, -15), 15)
+>>> f = x**2 - 3
+>>> secant(f,0, 2, pow(10,-11), 11)
 ~~~
 Output from the code above:
 
@@ -33,7 +34,7 @@ Output from the code above:
 
 ~~~
 
-def Secant(f, x0, x1, tol, maxiter):
+def secant(f, x0, x1, tol, maxiter):
 
     i = 0
     error = 10 * tol
