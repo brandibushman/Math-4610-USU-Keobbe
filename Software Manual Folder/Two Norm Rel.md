@@ -15,7 +15,7 @@ For example,
 
 **Input:** Vector in the form of a list. 
 
-**Output:**  Length of vector or list by taking the square root of the sum of the squares of the elements. 
+**Output:**  Relative Error
 
 **Usage/Example:**
 ~~~
