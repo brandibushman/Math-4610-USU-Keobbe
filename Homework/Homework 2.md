@@ -21,7 +21,7 @@ Above, an approximation of the derivative. Use the derivative approximation usin
 h
  tends to zero. Then use the conjugate of the numerator to rewrite the derivative formula using the following steps:
 
-### [Problem 4*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Home%202%20prob%204.md)
+### Problem 4 [first function](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md)
  
 ### [Problem 5](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Bisection%20Method.md) 
 
