@@ -8,7 +8,7 @@
 
 For example,
 
-    Norm2AbE()
+    Norm2AbE(u,v)
 
 
 **Description/Purpose:** Computes the absolute error of two vectors with the norm 2. 
@@ -24,7 +24,7 @@ For example,
 ~~~      
 Output from the lines above:
 ~~~
-.1574719166
+.1621433836
 ~~~
 
 **Implementation/Code:**
@@ -35,6 +35,6 @@ def Norm2Abs(v, u):
     lU = Norm2Leng(u)
     lV = Norm2Leng(v)
 
-    return error_abs(u,v)
+    return error_abs(lU,lV)
                 
 ~~~
