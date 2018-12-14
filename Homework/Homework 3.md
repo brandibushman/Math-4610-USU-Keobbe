@@ -4,11 +4,11 @@ Write routines that will compute and return the [1 Norm*](https://github.com/bra
 
 
 
-### Problem 2 
+### Problem 2* 
 Write routines that will compute the absolute and relative errors in the approximation of an "exact" vector and a vector used to approximate the exact vector. The routines should take as input two vectors, x and y, and the length of the two vectors. The output should be a single double value that represents the error. Note that there are six total routines that need to be developed. There are three measures of error for both the absolute error and three for the relative error. The three routines should compute the errors in the norms as defined in the previous problem. As usual, add entries to your software manual with simple examples.
 [One Norm Abs*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/One%20Norm%20Abs.md), [One Norm Rel*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/One%20Norm%20Rel.md), [Two Norm Abs*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Two%20Norm%20Abs.md), [Two Norm Rel*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Two%20Norm%20Rel.md), [Infinity Norm Abs*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Infinity%20Norm%20Abs.md), [Infinity Norm Rel*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Infinity%20Norm%20Rel.md)
 
-### Problem  3
+### Problem  3*
 Write separate routines for each of the following vector operations
 [vector addition*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20addition.md)
 [vector subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20subtraction.md)
@@ -17,11 +17,11 @@ the [inner product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/
 the [cross product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/cross%20product.md) of two vectors of the same length
 Add entries to your software manual to cover these routines. As in all homework problems, include simple examples of how your code works.
  
-### Problem 4
+### Problem 4*
 Write separate routines to compute the Frobenius norms of a matrix. Add entries to your software manual for these routines.
 [Frobenius one norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20one%20norm.md), [Frobenius Two Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Two%20Norm.MD),  [Frobenius Infinity Norm*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Frobenius%20Infinity%20Norm.md)
 
-### Problem 5
+### Problem 5*
 Write separate routines for each of the following matrix operations.
 [matrix addition*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/matrix%20addition.md)
 [matrix subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/matrix%20subtraction.md)
@@ -46,7 +46,7 @@ Add entries to your software manual for each of the routines you write.
 You do not need to add an entry to the software manual in this case. However, you need to give examples to verify your code works.
 
 
-### Problem 8 
+### Problem 8*
 [vector addition*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20addition.md)
 [vector subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20subtraction.md)
 [multiplying a scalar into a vector](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplying%20a%20scalar%20into%20a%20vector.md)
