@@ -11,11 +11,11 @@ For example,
     NormInfRel(u,v)
 
 
-**Description/Purpose:** Finds the length of a vector using infinity nrom.
+**Description/Purpose:** Finds the length of a vector using infinity norm.
 
 **Input:** Vector in the form of a list. 
 
-**Output:**  Length of vector or list by taking the square root of the sum of the squares of the elements. 
+**Output:**  Relative error. 
 
 **Usage/Example:**
 ~~~
