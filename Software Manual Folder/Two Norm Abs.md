@@ -16,6 +16,7 @@ For example,
 **Input:** Two vectors one exact and one an approximation. Must be put in as lists. 
 
 **Output:**  The absolute error
+
 **Usage/Example:**
 ~~~
 >>> v = [11,22,33,44]
