@@ -47,10 +47,11 @@ You do not need to add an entry to the software manual in this case. However, yo
 
 
 ### Problem 8 
-Write routines that implement the following vector operations.
-the inner product or dot product of two vectors, and
-the cross product of two vectors.
-
+[vector addition*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20addition.md)
+[vector subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20subtraction.md)
+[multiplying a scalar into a vector](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplying%20a%20scalar%20into%20a%20vector.md)
+the [inner product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/inner%20product.md) of two vectors of the same length
+the [cross product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/cross%20product.md) of two vectors of the same length
 
 ### [Problem 9](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/Change%20of%20Basis.md)
  In a standard linear algebra course the process of changing bases is presented. For this problem, define an algorithm for determining an othogonal basis from a general basis in two dimensions. This means taking a pair of vectors and determining a pair of unit vectors that form an orthogonal pair of vectors. Include an entry in your software manual with some simple examples.
