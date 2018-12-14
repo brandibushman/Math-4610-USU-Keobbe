@@ -1,5 +1,4 @@
 # Two Norm Lengths
-This is a program which will evaluate the double precision epsilon of your computer.
 
 **Routine Name:**           Norm2Leng.py
 
@@ -12,7 +11,7 @@ For example,
     Norm2Legth()
 
 
-**Description/Purpose:** Finds the length of a vector.
+**Description/Purpose:** Finds the length of a vector using two nrom.
 
 **Input:** Vector in the form of a list. 
 
