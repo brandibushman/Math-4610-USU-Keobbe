@@ -11,7 +11,7 @@ For example,
     FrNorm(A)
 
 
-**Description/Purpose:** Adds right most columns 
+**Description/Purpose:** square root of the sum of the squares of each component. 
 
 **Input:** A matrix which is a list of lists. 
 
