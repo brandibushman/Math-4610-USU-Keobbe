@@ -14,7 +14,7 @@ Write separate routines for each of the following vector operations
 [vector subtraction*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/vector%20subtraction.md)
 [multiplying a scalar into a vector](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/multiplying%20a%20scalar%20into%20a%20vector.md)
 the [inner product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/inner%20product.md) of two vectors of the same length
-the [cross product](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/cross%20product.md) of two vectors of the same length
+the [cross product*](https://github.com/brandibushman/Math-4610-USU-Keobbe/blob/master/Software%20Manual%20Folder/cross%20product.md) of two vectors of the same length
 Add entries to your software manual to cover these routines. As in all homework problems, include simple examples of how your code works.
  
 ### Problem 4
