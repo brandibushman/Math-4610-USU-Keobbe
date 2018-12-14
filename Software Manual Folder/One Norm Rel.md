@@ -37,7 +37,7 @@ def Norm1Rel(v, u):
     lU = Norm1Leng(u)
     lV = Norm1Leng(v)
 
-    return error_rel(u,v)
+    return error_rel(lU,lV)
                 
 
 ~~~
