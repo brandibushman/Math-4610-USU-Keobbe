@@ -1,5 +1,4 @@
 # One Norm Lengths
-This is a program which will evaluate the double precision epsilon of your computer.
 
 **Routine Name:**           Norm1Leng.py
 
@@ -12,11 +11,11 @@ For example,
     Norm1Legth()
 
 
-**Description/Purpose:** Finds the length of a vector.
+**Description/Purpose:** Finds the length of a vector using the one norm.
 
 **Input:** Vector in the form of a list. 
 
-**Output:**  Length of vector or list. 
+**Output:**  Length of vector. 
 
 **Usage/Example:**
 ~~~
