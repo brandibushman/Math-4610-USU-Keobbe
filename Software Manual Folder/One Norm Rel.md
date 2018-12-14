@@ -25,7 +25,7 @@ For example,
 ~~~      
 Output from the lines above:
 ~~~
-.15
+.0013636364
 ~~~
 
 **Implementation/Code:**
